@@ -1,0 +1,1 @@
+SecurityFusion is an open source network intrusion detection and prevention system based in Hogwash, capable of performing real-time traffic analysis and packet logging on IP networks.
